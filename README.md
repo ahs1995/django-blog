@@ -40,7 +40,7 @@ It helped me grasp core Django concepts such as:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ahs1995/corey.git
+   git clone https://github.com/ahs1995/django-blog.git
    cd corey
 
    ```
